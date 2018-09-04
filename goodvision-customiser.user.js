@@ -6,8 +6,8 @@
 // @author       MarianS
 // @match        https://annotations.goodvisionlive.com
 // @grant        none
-// @downloadURL  https://github.com/mariansam/goodvision-customizer/raw/master/goodvision-customizer.user.js
-// @updateURL    https://github.com/mariansam/goodvision-customizer/raw/master/goodvision-customizer.user.js
+// @downloadURL  https://github.com/mariansam/goodvision-customizer/raw/master/goodvision-customiser.user.js
+// @updateURL    https://github.com/mariansam/goodvision-customizer/raw/master/goodvision-customiser.user.js
 // @supportURL   https://github.com/mariansam/goodvision-customizer/issues
 // @homepage     https://github.com/mariansam/goodvision-customizer/
 // ==/UserScript==
