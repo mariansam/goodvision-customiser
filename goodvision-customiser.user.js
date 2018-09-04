@@ -29,9 +29,9 @@
     var car = document.querySelector('.btn-object-class[data-object-class="CAR"]');
     var person = document.querySelector('.btn-object-class[data-object-class="PERSON"]');
     document.onkeypress = function(env) {
-        if (env.code === 'KeyC')
+        if (env.key === 'c')
             car.click();
-        else if (env.code === 'KeyV')
+        else if (env.key === 'v')
             person.click();
     };
 })();
