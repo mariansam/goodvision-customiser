@@ -10,7 +10,7 @@ Simple script to make your GoodVision annotating simplier.
 
 ## Installation instructions
 - Install Tampermonkey or Greasemonkey extension to your browser
-- [Click this link](https://github.com/mariansam/goodvision-customizer/raw/master/goodvision-customizer.user.js)
+- [Click this link](https://github.com/mariansam/goodvision-customizer/raw/master/goodvision-customiser.user.js)
 - Click install on opened page
 
 Works with Tampermonkey in Opera. Should work with others.
