@@ -19,7 +19,6 @@
     var sheet = document.styleSheets[2];
 
     // disable snackbar
-    console.log(sheet);
     sheet.insertRule('#snackbar.show { display: none; }', sheet.cssRules.length);
 
     // disable tags
